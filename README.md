@@ -1,4 +1,4 @@
-This is a project I did where the goal was to implement a language definition.
+This is a project done in Java I did for UAlbany during Fall 2024 where the goal was to implement a language definition.
 
 This language definition is within the "Tran Language Definition.pdf" file with a few changes such as how accessor and mutators did not need full functionality and the built in getDate() method is not implemented.
 
